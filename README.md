@@ -1,6 +1,6 @@
 # Helix: AI for Biomedical Discovery (NVIDIA Nemotron)
 
-## 🚀 Overview
+## Overview
 Helix is an AI-powered system that generates structured biomedical research insights using NVIDIA Nemotron.
 
 It produces:
@@ -12,13 +12,13 @@ from natural language prompts.
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ![Architecture](Architecture.png)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - NVIDIA Nemotron (LLM)
 - Next.js (Frontend)
 - API Routes (/generate)
@@ -26,7 +26,7 @@ from natural language prompts.
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 ```json
 {
